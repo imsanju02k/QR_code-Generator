@@ -1,0 +1,2 @@
+rootProject.name = "QRcreator App"
+include ':app'
